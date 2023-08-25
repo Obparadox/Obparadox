@@ -76,7 +76,7 @@
     
 ## 📛 Badges
 
-<a href="https://www.credly.com/badges/b81ad27e-2762-4506-957f-5ead7d0c3fcb/public_url" target='_blank'><img width="75px" src='https://i.postimg.cc/Gm016ZRZ/intel-student-ambassador-program-iot-ambassador-level-1.png' border='0' alt='SUBHAM-SURANA-IOT-AMBASSADOR-LEVEL-1'/></a>
+<a href="https://www.credly.com/badges/b81ad27e-2762-4506-957f-5ead7d0c3fcb/public_url" target='_blank'><img width="120px" src='https://fs.enterprisedna.co/badges/tZ40im6XtUNnj2I99lG1L0NvmpZQPYeiA91Asukh.webp' border='0' alt='POWER BI'/></a>
 <a href='https://postimg.cc/Sjf42Wnc' target='_blank'><img width="75px" src='https://i.postimg.cc/Sjf42Wnc/SUBHAM-SURANA-AI-AWARE-BADGE.png' border='0' alt='SUBHAM-SURANA-AI-AWARE-BADGE'/></a>
 <a href='https://postimg.cc/PC60byH8' target='_blank'><img width="75px" src='https://i.postimg.cc/PC60byH8/SUBHAM-SURANA-AI-APPRECIATE-BADGE.png' border='0' alt='SUBHAM-SURANA-AI-APPRECIATE-BADGE'/></a>
  <!--
