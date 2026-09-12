@@ -1,127 +1,122 @@
-<h1 align="center"> Hi 👋, I'm Bikram Purkait </h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+<h1 align="center">Hi 👋, I'm Bikram Purkait</h1>
+<h3 align="center">Data Analyst | Business Intelligence & Statistical Analytics | India 🇮🇳</h3>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=Obparadox&label=Profile%20views&color=0e75b6&style=flat" alt="Obparadox" /> 
-</p>
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Obparadox" alt="Obparadox" />   
+<p align="center">
+  <a href="https://ais-pre-kttzqy7vccg6fug6wtvraa-736311365644.asia-southeast1.run.app">
+    <img src="https://img.shields.io/badge/🌐_Interactive_Portfolio-Explore_Live_Web_App-FF671F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Portfolio Web App" />
+  </a>
+  <a href="https://www.linkedin.com/in/bikrampurkait/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ownbikram@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
-<hr>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Obparadox&label=Profile%20Views&color=FF671F&style=flat-square" alt="Obparadox views" />
+</p>
 
-## 💁‍♂️ About me
+---
 
-- 🌱 I’m currently learning **SQL, Python, Apps Script, Power Bi, Data Visualization, Statistics**
+### 🇮🇳 About Me
 
-- 👯 I’m looking to collaborate on **projects related to Data Analytics**
+Analytical problem-solver equipped with rigorous expertise in **SQL database querying**, **Python analytical pipelines**, **Power BI interactive dashboards**, and **statistical inference**. Passionate about turning raw multi-dimensional operational and commercial records into high-impact executive decision systems.
 
--  🔭 I'm looking for **Data Analytics, Business Analytics, Product Analytics Full Time Role**
+- 🔭 **Actively Seeking**: Full-time roles in **Data Analytics**, **Business Analytics**, and **Product Analytics**.
+- 🌱 **Core Toolkit**: SQL (MySQL), Python (Pandas, NumPy, Matplotlib, Seaborn), Power BI (DAX, Power Query M), MS Excel, and Apps Script.
+- 👯 **Open to Collaboration**: Data analytics pipelines, exploratory data analysis (EDA), business intelligence reporting, and statistical modeling.
+- 🧠 **Approach**: Quick learner, detail-oriented analyst, and collaborative team player passionate about community knowledge sharing.
+- 📍 **Location**: India
 
-- 💬 Ask me about **Data Analytics, SQL, Python, Data Visualization, Tableau, Statistics, PowerBI, MS Excel**
+---
 
-- 🧠 I'm a **quick learner**, a **team player**, and love **helping others**.
-  
-- 📫 How to reach me **ownbikram@gmail.com**     
+### 📊 Featured Analytics Case Studies & Projects
 
-## 🔗 Connect with Me
-  
-[<img align="left" alt="Bikram | Mail" width="80px" src="https://img.shields.io/badge/-Gmail-000000?logo=gmail&Color=0A66C2&style=flat-square" />][mail]
-[<img align="left" alt="Bikram | LinkedIn" width="100px" src="https://img.shields.io/badge/-LinkedIn-000000?logo=linkedin&Color=0A66C2&style=flat-square" />][linkedin]
-[<img align="left" alt="Bikram | Kaggle" width="88px" src="https://img.shields.io/badge/-Kaggle-000000?logo=kaggle&Color=0A66C2&style=flat-square" />][kaggle]
-[<img align="left" alt="Bikram | HackerRank" width="127px" src="https://img.shields.io/badge/-HackerRank-000000?logo=hackerrank&Color=0A66C2&style=flat-square" />][hackerrank]
-[<img align="left" alt="Bikram | Discord" width="92px" src="https://img.shields.io/badge/-Discord-000000?logo=discord&Color=0A66C2&style=flat-square" />][discord]
-<!-- https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg -->
-<br>
-<hr>
+| Project | Tech Stack | Key Impact & Analytical Scope |
+| :--- | :--- | :--- |
+| **[Enterprise Sales & Margin BI Dashboard](https://github.com/Obparadox)** | `Power BI` `DAX` `Star Schema` `Excel` | Designed star-schema data models and YoY DAX margin variance tracking across Indian commercial zones. Saved 12+ hrs/wk of manual reporting. |
+| **[Customer Churn & Behavioral EDA](https://github.com/Obparadox)** | `Python` `Pandas` `NumPy` `Seaborn` | Exploratory data analysis pipeline on 50K subscriber cohort uncovering retention risk factors and correlation patterns. |
+| **[E-Commerce SQL Database & RFM Segmentation](https://github.com/Obparadox)** | `MySQL` `Window Functions` `CTEs` | Advanced SQL queries clustering customers into Recency, Frequency, and Monetary (RFM) tiers; query latency reduced by 62%. |
+| **[Portfolio Volatility & Risk Statistical Model](https://github.com/Obparadox)** | `Python` `NumPy` `Matplotlib` `Stats` | Algorithmic statistical framework with 10,000 Monte Carlo runs to evaluate Value at Risk (VaR) and risk-adjusted Sharpe ratios. |
 
-## 📜 Languages I know 
+---
 
-<img align="left" width="95px" src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=plastic" />
-<img align="left" width="75px" src="https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&Color=white&style=plastic" />
-<img align="center" width="105px" src="https://img.shields.io/badge/-MySQL-000000?logo=mysql&Color=white&style=plastic" />
+### 🧰 Technical Competencies
 
-<hr>
-
-## 🧰 Tools I use 
-
-<img align="left" width="110px" src="https://img.shields.io/badge/-Anaconda-006643?logo=anaconda&Color=white&style=plastic" />
-<img align="left" width="100px" src="https://img.shields.io/badge/-Jupyter-000000?logo=jupyter&Color=white&style=plastic" />
-<img align="left" width="130px" src="https://img.shields.io/badge/-Spyder%20IDE-FF0000?logo=spyder-ide&Color=white&style=plastic" />
-<img align="left" width="160px" src="https://img.shields.io/badge/-Google%20Colab-000000?logo=google-colab&Color=white&style=plastic" />
-<img align="left" width="110px" src="https://img.shields.io/badge/-Power%20Bi-000000?logo=power-bi&Color=white&style=plastic" /><br><br />
-<img align="left" width="110px" src="https://img.shields.io/badge/-MS%20Excel-217346?logo=microsoft-excel&Color=white&style=plastic" />
-
-<br>
-<hr>
-
-## ML libraries I :heart:
-
-<img align="left" width="100px" src="https://img.shields.io/badge/-NumPy-013243?logo=numpy&Color=white&style=plastic" />
-<img align="left" width="100px" src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&Color=white&style=plastic" />
-<img align="left" width="100px" src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="Matplotlib Logo" width="90px">
-
-<br>
-<hr>
-
-## 🏆 Github Profile Trophy
+#### 💻 Programming & Query Languages
 <p>
-<img width=800 src="https://github-profile-trophy.vercel.app/?username=Obparadox&column=9&theme=gruvbox&no-frame=true" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=plastic" alt="Python" height="26" />
+  <img src="https://img.shields.io/badge/-MySQL-00599C?logo=mysql&logoColor=white&style=plastic" alt="MySQL" height="26" />
+  <img src="https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white&style=plastic" alt="C++" height="26" />
+  <img src="https://img.shields.io/badge/-Google%20Apps%20Script-4285F4?logo=google&logoColor=white&style=plastic" alt="Apps Script" height="26" />
 </p>
 
-<hr>  
-    
-## 📛 Badges
-
-<a href="https://www.credly.com/badges/b81ad27e-2762-4506-957f-5ead7d0c3fcb/public_url" target='_blank'><img width="120px" src='https://fs.enterprisedna.co/badges/tZ40im6XtUNnj2I99lG1L0NvmpZQPYeiA91Asukh.webp' border='0' alt='POWER BI'/></a>
-<a href='https://postimg.cc/Sjf42Wnc' target='_blank'><img width="75px" src='https://i.postimg.cc/Sjf42Wnc/SUBHAM-SURANA-AI-AWARE-BADGE.png' border='0' alt='SUBHAM-SURANA-AI-AWARE-BADGE'/></a>
-<a href='https://postimg.cc/PC60byH8' target='_blank'><img width="75px" src='https://i.postimg.cc/PC60byH8/SUBHAM-SURANA-AI-APPRECIATE-BADGE.png' border='0' alt='SUBHAM-SURANA-AI-APPRECIATE-BADGE'/></a>
- <!--
-<a><img width="90px" height="100px" src='https://road-to-kaggle-grandmaster.vercel.app/api/badges/subhamjain/competition' border='0' alt='Bikram_Purkait_Kaggle_Competittion_Badge'/></a>
-<a><img width="90px" height="100px" src='https://road-to-kaggle-grandmaster.vercel.app/api/badges/subhamjain/dataset' border='0' alt='Bikram_Purkait_Kaggle_Dataset_Badge'/></a>
-<a><img width="90px" height="100px" src='https://road-to-kaggle-grandmaster.vercel.app/api/badges/subhamjain/notebook' border='0' alt='Bikram_Purkait_Kaggle_Notebook_Badge'/></a>
-<a><img width="90px" height="100px" src='https://road-to-kaggle-grandmaster.vercel.app/api/badges/subhamjain/discussion' border='0' alt='Bikram_Purkait_Kaggle_Discussion_Badge'/></a>
--->
-
-[mail]: mailto:ownbikram@gmail.com     
-[BIT Mesra]: https://www.bitmesra.ac.in/
-[linkedin]: https://www.linkedin.com/in/bikrampurkait/
-[kaggle]: https://www.kaggle.com/iambikrampurkait
-[hackerrank]: https://www.hackerrank.com/ownbikram
-[discord]: https://discordapp.com/users/577254428046786561
-[facebook]: https://www.facebook.com/subham.jain.142035/
-[Python]: https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg
-[Apps Script]: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png
-[SQL]: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png
-[MATLAB]: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png
-[Git]: https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg
-[Sheets]: https://img.icons8.com/fluency/48/ffffff/google-sheets.png
-[Excel]: https://img.icons8.com/color/48/ffffff/ms-excel.png
-
-    
- <!--
-### Languages and Tools:
-
-[<img align="left" alt="Python" width="34px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />][Python]
-[<img align="left" alt="C++" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />][C++]
-[<img align="left" alt="SQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][SQL]
-[<img align="left" alt="TensorFlow" width="30px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" />][TensorFlow]
-[<img align="left" alt="MATLAB" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" />][MATLAB]
-[<img align="left" alt="Git" width="30px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />][Git]
-[<img align="left" alt="Sheets" width="33px" src="https://img.icons8.com/fluency/48/ffffff/google-sheets.png" />][Sheets]
-[<img align="left" alt="Excel" height="34px" width="31px" src="https://img.icons8.com/fluency/48/ffffff/microsoft-excel-2019.png" />][Excel]
+#### 📊 Business Intelligence & Visualization Tools
+<p>
+  <img src="https://img.shields.io/badge/-Power%20BI-F2C811?logo=power-bi&logoColor=black&style=plastic" alt="Power BI" height="26" />
+  <img src="https://img.shields.io/badge/-MS%20Excel-217346?logo=microsoft-excel&logoColor=white&style=plastic" alt="MS Excel" height="26" />
+  <img src="https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white&style=plastic" alt="Tableau" height="26" />
+  <img src="https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=plastic" alt="Jupyter" height="26" />
+  <img src="https://img.shields.io/badge/-Google%20Colab-F9AB00?logo=google-colab&logoColor=white&style=plastic" alt="Colab" height="26" />
+  <img src="https://img.shields.io/badge/-Anaconda-44A833?logo=anaconda&logoColor=white&style=plastic" alt="Anaconda" height="26" />
 </p>
+
+#### 📈 Data Science & Statistical Libraries
+<p>
+  <img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=plastic" alt="Pandas" height="26" />
+  <img src="https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=plastic" alt="NumPy" height="26" />
+  <img src="https://img.shields.io/badge/-Matplotlib-11557C?logo=python&logoColor=white&style=plastic" alt="Matplotlib" height="26" />
+</p>
+
+---
+
+### 📛 Verified Certifications & Accreditations
+
+- **Power BI Certified Data Analyst** — *Enterprise DNA* 
+  - [Verify on Credly](https://www.credly.com/badges/b81ad27e-2762-4506-957f-5ead7d0c3fcb/public_url)
+- **AI Aware Certified** — *AI Education Initiative*
+  - Foundation in cognitive architectures, ML frameworks, and AI workflows.
+- **AI Appreciate Certified** — *AI Education Initiative*
+  - Data ethics, algorithmic accountability, and strategic model application.
+
+---
+
+### 🏆 GitHub Profile Trophies
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img width="850" src="https://github-profile-trophy.vercel.app/?username=Obparadox&column=8&theme=gruvbox&no-frame=true" alt="Bikram Purkait GitHub Trophies" />
+  </a>
+</p>
+
+---
+
+### 🔗 Connect with Me
+
+<p>
+  <a href="mailto:ownbikram@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=white&style=flat-square" alt="Email" height="28" />
+  </a>
+  <a href="https://www.linkedin.com/in/bikrampurkait/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn" height="28" />
+  </a>
+  <a href="https://github.com/Obparadox">
+    <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square" alt="GitHub" height="28" />
+  </a>
+  <a href="https://www.kaggle.com/iambikrampurkait">
+    <img src="https://img.shields.io/badge/-Kaggle-20BEFF?logo=kaggle&logoColor=white&style=flat-square" alt="Kaggle" height="28" />
+  </a>
+  <a href="https://www.hackerrank.com/ownbikram">
+    <img src="https://img.shields.io/badge/-HackerRank-00EA64?logo=hackerrank&logoColor=black&style=flat-square" alt="HackerRank" height="28" />
+  </a>
+  <a href="https://discordapp.com/users/577254428046786561">
+    <img src="https://img.shields.io/badge/-Discord-5865F2?logo=discord&logoColor=white&style=flat-square" alt="Discord" height="28" />
+  </a>
+</p>
+
 <br />
-<br />
 
-<br>
-
-<p align="left">
-  <a href="https://github.com/Neklaustares-tPtwP"><img width="400" src="https://github-readme-stats.vercel.app/api?username=Neklaustares-tPtwP&show_icons=true&theme=gruvbox">
-  <a href="https://github.com/Neklaustares-tPtwP"><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neklaustares-tPtwP&hide=html,scss,css,shell,javascript,ruby&langs_count=10&layout=compact&theme=gruvbox">
+<p align="center">
+  <sub>That's an overview about me. For more, visit my interactive portfolio website! 🇮🇳</sub>
 </p>
-
--->
